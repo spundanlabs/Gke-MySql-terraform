@@ -13,3 +13,5 @@
 * run command  * terraform apply "anyname" {which given on the time of plan}                                
 
 # gke-mysql-terraform
+
+![](images/screenshot.png)
